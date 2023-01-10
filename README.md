@@ -2,6 +2,9 @@
 
 The aim of the project was to design and make a home movie player in the style of a digital photo frame. Beautiful and elegent design to seamlessly fit into the home compared to the ugly digital photo frames on the market.
 
+![ExplodedVideoFrameGif](https://user-images.githubusercontent.com/57590322/211637817-53cf34f8-e15b-4da3-bec6-98d2fb43c576.gif)
+
+
 ## Features
 - Shuffle video play
 - Volume control
